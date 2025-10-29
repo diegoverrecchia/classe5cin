@@ -6,3 +6,4 @@
 * Peperoncino
 * Prezzemolo
 * pepe
+* Pecorino (se piace)
